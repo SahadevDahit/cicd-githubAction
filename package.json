@@ -1,0 +1,14 @@
+{
+  "name": "cicd-githubaction",
+  "version": "1.0.0",
+  "description": "simple cicd deploy in ec2 using github actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sahadev dahit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
